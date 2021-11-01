@@ -1,2 +1,4 @@
 # Customer_Segmentation_using_Machine_Learning
 In this project, we will implement customer segmentation in Python. Whenever you need to find your best customer, customer segmentation is the ideal methodology.
+
+In this machine learning project, DataFlair will provide the background of customer segmentation. Then we will explore the data upon which we will be building our segmentation model. Also, in this data science project, we will see the descriptive analysis of our data and then implement several versions of the K-means algorithm. This project was based on this [Data Flair training](https://data-flair.training/blogs/r-data-science-project-customer-segmentation/).
